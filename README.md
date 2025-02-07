@@ -12,7 +12,7 @@
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://variety.com/wp-content/uploads/2022/06/preview.jpg?w=1000&h=667&crop=1">
- <source media="(prefers-color-scheme: light)" srcset="">
+ <source media="(prefers-color-scheme: light)" srcset="https://www.nme.com/wp-content/uploads/2022/12/Wednesday-Enid-main-2-696x442.jpg">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
