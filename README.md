@@ -10,3 +10,11 @@
 
 
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://variety.com/wp-content/uploads/2022/06/preview.jpg?w=1000&h=667&crop=1">
+ <source media="(prefers-color-scheme: light)" srcset="">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
+
+
