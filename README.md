@@ -7,3 +7,6 @@
 - 💬 Ask me about my cat 🐱
 - 📫 How to reach me: <mark>ioana.sorana20@gmail.com</mark>
 - ⚡ Fun fact: I worked in education for 4 years now and I am willing to try something new!
+
+
+
