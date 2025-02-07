@@ -1,9 +1,5 @@
 # About me
 
-**Sorana20/Sorana20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my post graduate program Applied Informatics and Programming at Technical University of Cluj- Napoca
 - 🌱 I’m currently learning informatics, programming, computer science, biology
 - 👯 I’m looking to collaborate on many projects in the fields of cyber-security, front-end and back-end developing.
